@@ -12,7 +12,7 @@ These images are published to the Docker Hub registry at [Selenium Docker Hub](h
 
 ## Quick start
 
-## Execution modes
+## Execution modes ## 🤖 Starting up
 
 ### Selenium Grid : hub and nodes setup
 
